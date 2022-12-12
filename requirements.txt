@@ -1,2 +1,1 @@
-django==2.1.7
-Run pip install -r
+django==3.2.16
